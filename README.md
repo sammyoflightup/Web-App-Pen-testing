@@ -16,7 +16,7 @@ This repository contains the findings from the web application penetration test 
 
 **Target**: Atlantean Crown Web Application  
 **Testing Dates**: March, 2025  
-**Tester**: Samuel George (Lightup Defence Solution)
+**Tester**: Samuel George (Lightup Defence)
 
 ### Objective:
 The purpose of this penetration test was to assess the security of the Atlantean Crown web application, focusing on identifying potential vulnerabilities that could be exploited by malicious actors.
