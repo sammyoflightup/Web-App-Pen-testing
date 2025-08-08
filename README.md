@@ -39,9 +39,11 @@ A combination of automated and manual testing techniques were used to identify s
 
 **Domain Information**:
 - WHOIS Lookup:  
-  ![WHOIS Lookup Screenshot](path/to/whois_screenshot.png)  
+  ![ Lookup Screenshot](![WhatsApp Image 2025-08-07 at 6 21 47 PM (1)](https://github.com/user-attachments/assets/da300f7f-04a6-40cf-8fa8-5660044b61b8)
+)  
 - DNS Records:  
-  ![DNS Records Screenshot](path/to/dns_screenshot.png)
+  ![Lookups]![WhatsApp Image 2025-08-07 at 6 21 47 PM](https://github.com/user-attachments/assets/df227524-dbf8-4d97-be47-2c08c3ceedb3)
+
 
 **Technologies Detected**:
 - Web Server: Apache
