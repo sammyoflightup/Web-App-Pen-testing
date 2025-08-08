@@ -40,10 +40,9 @@ A combination of automated and manual testing techniques were used to identify s
 
 ### Reconnaissance Report
 
-**Domain Information:**  
-![WhatsApp Image 2025-08-07 at 6 21 47 PM (1)](https://github.com/user-attachments/assets/7733aa90-8770-4220-bacd-7998e7e8a4a2)
-![WhatsApp Image 2025-08-07 at 6 21 47 PM](https://github.com/user-attachments/assets/c7945b1a-4a37-4bc0-b5d4-45cb525fca6e)
-
+| WHOIS Lookup | DNS Records |
+|--------------|-------------|
+| ![WHOIS Lookup](https://github.com/user-attachments/assets/7733aa90-8770-4220-bacd-7998e7e8a4a2) | ![DNS Records](https://github.com/user-attachments/assets/c7945b1a-4a37-4bc0-b5d4-45cb525fca6e) |
 
 **Technologies Detected:**  
 - Web Server: Apache  
@@ -54,12 +53,6 @@ A combination of automated and manual testing techniques were used to identify s
 **Subdomains Identified:**  
 - api.atlanteancrown.com  
 - login.atlanteancrown.com
-
-**Nmap Scan:**  
-- Nmap Scan Screenshot:  
-  ![Nmap Scan Screenshot](path/to/nmap_screenshot.png)
-
----
 
 ## Vulnerability Scanning
 
